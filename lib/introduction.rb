@@ -15,3 +15,5 @@ introduction("Kevin")
 introduction_with_language("Kevin","Ruby")
 
 introduction_with_language_optional("Kevin")
+
+introduction_with_language_optional("Kevin","Python")
